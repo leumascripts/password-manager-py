@@ -15,10 +15,10 @@ This project is a practical implementation of password security fundamentals. In
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/leumascripts/repository-name.git](https://github.com/leumascripts/repository-name.git)
-   cd repository-name
+   git clone [https://github.com/leumascripts/password-manager-py.git](https://github.com/leumascripts/password-manager-py.git)
+   cd password-manager-py
 
-    Run the script: python main.py
+   Run the script: python password-manager-py
 
 2. ❗ **Important**:
 *Runtime Issues (Windows) If, after attempting to add a password, the script exits with the error **PermissionError: [Errno 13] Permission denied**, this is a permissions issue with the operating system, not the code. **Solution**: Run the script via Command Prompt or PowerShell instead of double-clicking to grant write permissions to the JSON file.1. Open the project folder. 2. Type 'cmd' in the address bar and press Enter. 3. Run: python password_manager.py* 
